@@ -1,8 +1,8 @@
 /*
  * main.c
  *
- * Copyright (c) 1999-2018, Arm Limited.
- * SPDX-License-Identifier: MIT
+ * Copyright (c) 1999-2019, Arm Limited.
+ * SPDX-License-Identifier: MIT OR Apache-2.0 WITH LLVM-exception
  */
 
 #include <assert.h>
